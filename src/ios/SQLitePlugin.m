@@ -11,7 +11,7 @@
 #import "sqlite3.h"
 
 // FUTURE TBD (in another version branch):
-//#define READ_BLOB_AS_BASE64
+#define READ_BLOB_AS_BASE64
 
 // FUTURE TBD (in another version branch & TBD subjet to change):
 //#define INCLUDE_SQL_BLOB_BINDING
